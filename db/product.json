@@ -1,0 +1,25 @@
+[{
+  "id": "iwOnsffGsO-1699645141280",
+  "name": "Alu pro max",
+  "slug": "alu-pro-max",
+  "regularPrice": "25",
+  "salePrice": "22",
+  "stock": "6",
+  "photo": "1699645141274_85591_2.jpg"
+}, {
+  "id": "JW1tvGWd6F-1699645638699",
+  "name": "jamdhani sari ",
+  "slug": "jamdhani-sari-",
+  "regularPrice": "250",
+  "salePrice": "220",
+  "stock": "60",
+  "photo": "1699645638693_56423_2.jpg"
+}, {
+  "id": "cxmrXKtspU-1699647124424",
+  "name": "begun ultra pro",
+  "slug": "begun-ultra-pro",
+  "regularPrice": "250",
+  "salePrice": "220",
+  "stock": "60",
+  "photo": "1699647124417_82534_2.jpg"
+}]
